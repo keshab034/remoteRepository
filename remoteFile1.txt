@@ -1,1 +1,3 @@
 This is first remote file.
+
+The code of this remote file is edited after clone in local repository at PC.
